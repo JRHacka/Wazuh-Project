@@ -1,2 +1,12 @@
 Installing Wazuh
 09/07/2022
+
+Curl the 3 needed items, and set nodes and IPs
+	Going to try leaving names and setting ips as my ubuntu machine - 192.168.10.134 (Set this as my static IP)
+Following the instructions makes it pretty easy
+
+You can access the web interface https://192.168.10.134
+    User: admin
+    Password: t49JZ1*1*2aq0tIndusiCCrdHIlUdr?B
+
+    Got all of it done minus installing on an agent
